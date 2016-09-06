@@ -21,5 +21,5 @@ Anyway point is: she's rad and stylish and you can play as her!
 ![Overworld screenshot](https://i.imgur.com/kqSmiX5.png)
 ![Battle screenshot](https://i.imgur.com/ga6yUE1.png)
 
-## Who owns this?
-This is just a patch! Pokemon, the game itself, and the trainer design all belong to Nintendo + Game Freak; I just made the trainer sprites and the few dialogue changes that make up the patch itself.
+## Credits?
+This is just a patch! Pokemon, the game itself, and the trainer design all belong to Nintendo + Game Freak; I just made the trainer sprites and the few dialogue changes that make up the patch itself. Also thanks to [the Pokered disassembly](https://github.com/pret/pokered) for making the creation process so easy!
