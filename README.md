@@ -22,4 +22,10 @@ Anyway point is: she's rad and stylish and you can play as her!
 ![Battle screenshot](https://i.imgur.com/ga6yUE1.png)
 
 ## Credits?
-This is just a patch! Pokemon, the game itself, and the trainer design all belong to Nintendo + Game Freak; I just made the trainer sprites and the few dialogue changes that make up the patch itself. Also thanks to [the Pokered disassembly](https://github.com/pret/pokered) for making the creation process so easy!
+Pokemon and the game itself are © Nintendo + Creatures Inc. + The Pokemon Co.!
+
+Green sprites made by Rose Valle (@mahoushoujorose on Twitter), based on art © Ken Sugimori. Hack made by Rose for non-profit purposes. Feel free to use the sprites, but if you do please credit!
+
+Also thanks so much to [the Pokered disassembly folx](https://github.com/pret/pokered) for making the creation process so easy!
+
+Finally, both were developed independently but Joseph Collins made [Pokemon Satin], a hack putting Green in the game, earlier this year too, please check theirs out as well! (Their sprites are super cute!)
