@@ -10,9 +10,9 @@ Sprites associated with Green, her name options, and character dialogue that rel
 ## Uh who's this lady
 So the original guide book for Pokemon Red / Green / Blue featured a mysterious trainer with her own starter Pokemon alongside Red and Blue. She also appeared with them in craft book Pokemon Craft DX, and most significantly in the Pokemon Adventures manga as (the unreasonably cool) Green. Leaf, the female protagonist in FireRed / LeafGreen, has a very similar design, and upon the games' release Green changed her outfit to Leaf's as well. It's not confirmed, but Green being intended to be a trainer character in the original games seems to be the prevalent theory.
 
-![RGB Guidebook](https://i.imgur.com/T2v1klE.jpg)
-![Pokemon Craft DX](https://i.imgur.com/C2mA2St.png)
-![Pokemon Adventures Green](https://i.imgur.com/sZPgiAt.png)
+<img src="https://i.imgur.com/T2v1klE.jpg" height="300">
+<img src="https://i.imgur.com/C2mA2St.png" height="300">
+<img src="https://i.imgur.com/sZPgiAt.png" height="300">
 
 Anyway point is: she's rad and stylish and you can play as her!
 
