@@ -28,4 +28,4 @@ Green sprites made by Rose Valle (@mahoushoujorose on Twitter), based on art © 
 
 Also thanks so much to [the Pokered disassembly folx](https://github.com/pret/pokered) for making the creation process so easy!
 
-Finally, both were developed independently but Joseph Collins made [Pokemon Satin], a hack putting Green in the game, earlier this year too, please check theirs out as well! (Their sprites are super cute!)
+Finally, both were developed independently but Joseph Collins made [Pokemon Satin](http://www.romhacking.net/hacks/2717/), a hack putting Green in the game, earlier this year too, please check theirs out as well! (Their sprites are super cute!)
